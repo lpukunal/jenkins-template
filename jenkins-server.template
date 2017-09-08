@@ -196,7 +196,10 @@
             "sa-east-1"      : {
                 "PV64" : "ami-fd9925e0",
                 "HVM64" : "ami-b52890a8"
-            }
+            },
+	    "ap-south-1" :{
+	    "HVM64" : "ami-d7abd1b8"
+	    }
         }
     },
     "Resources"                : {
